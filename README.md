@@ -1,4 +1,4 @@
-### Olá, Eu sou Gabriel Montenegro! dê uma olhada no meu perfil 👇:
+### Olá, Eu sou Gabriel Montenegro! dê uma olhada no meu perfil  👇:
 <div align="center">
   <a href="https://github.com/Gabriel-M2">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Gabriel-M2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
